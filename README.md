@@ -1,1 +1,1 @@
-# Image-recognition-handwritten-math
+# Image-recognition-handwritten-symbols
